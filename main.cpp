@@ -7,7 +7,13 @@
 #include <string> 
 #include <unistd.h>
 #include "Input_Validation_Extended.h"
+
 using namespace std; 
+
+//04/12/2021
+//Dr. McMillan - Tccd
+//Football scoreboard - practicing setters and getters
+//class practice
 
 
 class Team 
